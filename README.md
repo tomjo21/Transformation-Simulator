@@ -73,7 +73,9 @@ Practicing coordinate geometry
 Visualizing the effect of combined transformations
 
 📄 License
+
 This project is open-source and released under the MIT License.
 
 🙋‍♂️ Author
+
 Developed as part of an academic assignment to demonstrate foundational concepts in 2D graphics and transformation mathematics using Python.
